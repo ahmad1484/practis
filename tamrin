@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    
+    <title>tamrain</title><script type='text/javascript'  src='bazi.js'></script>   
+    <style type="text/css">
+        #bord{
+            width: 300;
+            height: 300;
+            border: solid 4px red;
+            background-color:;
+
+        }
+       
+    </style>
+   
+</head>
+
+<body>
+    <img  width="200" height="100" src="https://cdn1.epicgames.com/offer/043ffc92cbd64a9fbc350ea68f415937/EGS_Arcadegeddon_IllFonic_S1_2560x1440-77506bae61f76e0cafdd88009684ab72?h=270&resize=1&w=480" alt="">
+<hr>
+    <h1 id="bala">game!</h1>
+    <hr>
+    <canvas id="bord"  class="bord" width="300" height="300" ></canvas>
+    entername
+
+    <input id="ja" type="text" placeholder="entername">
+    <button id="klidja">go</button> <hr>
+    <p style="color:blue ;">
+        man daram tamrinmihonam
+    </p>
+    <hr>
+    <a href="https://www.google.com/">google</a>
+    <hr><button><a href="https://gamesetup.ir/">go</a></button>
+    
+</body>
+</html>
